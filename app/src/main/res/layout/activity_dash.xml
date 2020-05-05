@@ -12,9 +12,23 @@
         android:id="@+id/textWelcome"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dados do usuario"
+        android:onClick="registrardadosusuario"/>
+
+    <Button
+        android:text="Cadastrar venda"
+        android:onClick="registrardadosvenda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
     <Button
         android:text="SAIR"
         android:onClick="sair"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
+
+
 </LinearLayout>

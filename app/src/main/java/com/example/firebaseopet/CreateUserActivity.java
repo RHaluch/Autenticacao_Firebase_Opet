@@ -20,7 +20,6 @@ public class CreateUserActivity extends AppCompatActivity {
     private EditText editLogin, editSenha;
     private FirebaseAuth mAuth;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -42,7 +41,7 @@ public class CreateUserActivity extends AppCompatActivity {
                     FirebaseUser user = mAuth.getCurrentUser();
                     updateUI(user);
                 }else{
-                    Toast.makeText(CreateUserActivity.this,"Falha ao Registrar",Toast.LENGTH_SHORT);
+                    Toast.makeText(CreateUserActivity.this,"Falha ao Registrar",Toast.LENGTH_SHORT).show();
                     updateUI(null);
                 }
             }
