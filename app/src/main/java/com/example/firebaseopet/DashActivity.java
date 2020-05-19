@@ -95,4 +95,9 @@ public class DashActivity extends AppCompatActivity {
             }
         });
     }
+
+    public void uploadArquivo(View view) {
+        Intent novaJanela = new Intent(DashActivity.this,ImageActivity.class);
+        startActivity(novaJanela);
+    }
 }

@@ -4,6 +4,23 @@
             "outputFile": "C:\\Users\\Rodrigo\\AndroidStudioProjects\\FirebaseOpet\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sk\\values-sk.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-2\\files-2.1\\9f0ee7a1e2d09f0b8df638b1094588d2\\jetified-ucrop-2.2.2\\res\\values-sk\\values-sk.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,182",
+                        "endColumns": "69,56,50",
+                        "endOffsets": "120,177,228"
+                    },
+                    "to": {
+                        "startLines": "50,51,52",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "5858,5928,5985",
+                        "endColumns": "69,56,50",
+                        "endOffsets": "5923,5980,6031"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-2\\files-2.1\\6b9a3f54b7aeaa05beab7d746c4b9e08\\jetified-play-services-basement-17.0.0\\res\\values-sk\\values.xml",
                     "from": {
                         "startLines": "4",

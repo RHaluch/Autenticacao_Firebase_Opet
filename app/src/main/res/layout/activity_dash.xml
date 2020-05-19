@@ -47,5 +47,11 @@
         android:text="Carregar Dados"
         android:onClick="carregarDados"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Upload de Arquivo"
+        android:onClick="uploadArquivo"/>
+
 
 </LinearLayout>

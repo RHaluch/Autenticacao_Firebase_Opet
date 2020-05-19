@@ -64,6 +64,10 @@
         "source": "C:\\Users\\Rodrigo\\AndroidStudioProjects\\FirebaseOpet\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\AndroidStudioProjects\\FirebaseOpet\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_image.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\AndroidStudioProjects\\FirebaseOpet\\app\\src\\main\\res\\layout\\activity_image.xml"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\AndroidStudioProjects\\FirebaseOpet\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dash.xml.flat",
         "source": "C:\\Users\\Rodrigo\\AndroidStudioProjects\\FirebaseOpet\\app\\src\\main\\res\\layout\\activity_dash.xml"
     },

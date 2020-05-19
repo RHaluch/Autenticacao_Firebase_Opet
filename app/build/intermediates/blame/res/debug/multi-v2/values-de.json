@@ -72,6 +72,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-2\\files-2.1\\9f0ee7a1e2d09f0b8df638b1094588d2\\jetified-ucrop-2.2.2\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,121,179",
+                        "endColumns": "65,57,55",
+                        "endOffsets": "116,174,230"
+                    },
+                    "to": {
+                        "startLines": "50,51,52",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "5962,6028,6086",
+                        "endColumns": "65,57,55",
+                        "endOffsets": "6023,6081,6137"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-2\\files-2.1\\cbfb2d986918eac5bfe2e92a267a8ef2\\jetified-firebase-messaging-17.3.4\\res\\values-de\\values.xml",
                     "from": {
                         "startLines": "4",
